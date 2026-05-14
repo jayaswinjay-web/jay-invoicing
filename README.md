@@ -1,19 +1,24 @@
 <div align="center">
-  <h1>📄 Jay Invoicing</h1>
-  <p><em>Automated invoicing system for small and medium businesses</em></p>
-
-  <p>
-    <img src="https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/UI-PyQt5-41CD52?style=flat-square&logo=qt" alt="PyQt5">
-    <img src="https://img.shields.io/badge/database-SQLite-003B57?style=flat-square&logo=sqlite" alt="SQLite">
-    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License">
-  </p>
+  <img src="https://raw.githubusercontent.com/jayaswinjay-web/shared-assets/main/screenshots/jay-invoicing-demo.svg" width="100%" alt="Jay Invoicing Screenshot">
 </div>
 
-![License](https://img.shields.io/github/license/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)
-![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)
-![CI](https://github.com/jayaswinjay-web/jay-invoicing/actions/workflows/ci.yml/badge.svg)
-![GitHub Repo](https://img.shields.io/github/repo-size/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)
+<br>
+
+<div align="center">
+
+[![License](https://img.shields.io/github/license/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)](https://github.com/jayaswinjay-web/jay-invoicing/commits)
+[![CI](https://github.com/jayaswinjay-web/jay-invoicing/actions/workflows/ci.yml/badge.svg)](https://github.com/jayaswinjay-web/jay-invoicing/actions)
+[![Repo Size](https://img.shields.io/github/repo-size/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)](https://github.com/jayaswinjay-web/jay-invoicing)
+[![Stars](https://img.shields.io/github/stars/jayaswinjay-web/jay-invoicing?style=social)](https://github.com/jayaswinjay-web/jay-invoicing)
+
+---
+
+### ⭐ Support This Project — [Star on GitHub](https://github.com/jayaswinjay-web/jay-invoicing) ⭐
+
+---
+
+</div>
 
 ## Overview
 
@@ -85,6 +90,15 @@ jay-invoicing/
 ## About JAY TECH SOLUTIONS
 
 Jay Invoicing is part of the [JAY TECH SOLUTIONS](https://jaytechsoln.in) product suite — a collection of business software products serving 50,000+ users across India.
+
+## Show Your Support
+
+- ⭐ **Star this repo** — helps others discover it
+- 🐛 **Report issues** — I respond within 24 hours
+- 📬 **Share feedback** — contact@jaytechsoln.in
+- ☕ **Buy me a coffee** — [Sponsor](https://github.com/sponsors/jayaswinjay-web)
+
+Made with ❤️ by [Aswin Jay](https://github.com/Aswinajay) — part of [JAY TECH SOLUTIONS](https://jaytechsoln.in)
 
 ## License
 
