@@ -10,6 +10,11 @@
   </p>
 </div>
 
+![License](https://img.shields.io/github/license/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)
+![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)
+![CI](https://github.com/jayaswinjay-web/jay-invoicing/actions/workflows/ci.yml/badge.svg)
+![GitHub Repo](https://img.shields.io/github/repo-size/jayaswinjay-web/jay-invoicing?style=flat&color=1a8a7a)
+
 ## Overview
 
 Jay Invoicing is a desktop application for generating, managing, and tracking invoices. Built with Python and PyQt5, it provides a clean, professional interface for small and medium businesses to handle their billing needs.
